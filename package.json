@@ -3,7 +3,9 @@
   "version": "1.0.8",
   "description": "",
   "main": "dist/server.js",
-  "bin": "./bin/script.js",
+  "bin": {
+    "express-boilerplate-starter": "./bin/script.js"
+  },
   "scripts": {
     "dev": "nodemon src/server.ts",
     "start": "node dist/src/server.js",
