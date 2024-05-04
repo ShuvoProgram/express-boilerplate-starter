@@ -1,6 +1,6 @@
-# Create Express Boilerplate Starter
+# Express Boilerplate Starter
 
-Create Express TypeScript Starter is a boilerplate project designed to help you quickly set up a new Express.js project with TypeScript. It includes pre-configured settings and dependencies for a seamless development experience.
+Express Boilerplate Starter is a boilerplate project designed to help you quickly set up a new Express.js project with TypeScript. It includes pre-configured settings and dependencies for a seamless development experience.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Create Express TypeScript Starter is a boilerplate project designed to help you 
 
 ## Getting Started
 
-To get started with Create Express TypeScript Starter, follow these steps:
+To get started with Express Boilerplate Starter, follow these steps:
 
 1. Use `npx` to create a new project based on the starter:
 
