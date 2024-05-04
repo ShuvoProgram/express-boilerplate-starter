@@ -114,4 +114,4 @@ Contributions to Create Express TypeScript Starter are welcome! To contribute, p
 Express Boilerplate Starter was created by [Safar Khan Shuvo](https://www.linkedin.com/in/shuvok/) and is maintained by the open-source community.
 
 ## License
-Express Boilerplate Starter is licensed under the MIT License.
+Express Boilerplate Starter is licensed under the Apache-2.0 license.
